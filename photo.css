@@ -1,0 +1,35 @@
+#upload {
+  text-align: center;
+background: url(rosor.jpg) no-repeat center;
+  border-radius: 10px;
+  color: white;
+  font-weight: bold;
+}
+
+input {
+  margin: 2em 0;
+}
+
+#buttons {
+  display: flex;
+  justify-content: space-evenly;
+  margin: 2em 0;
+  border: 1px solid lightpink;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+button {
+  background: url(rosor.jpg);
+  border-radius: 10px;
+  width: 10em;
+  padding: 15px;
+  font-weight: bold;
+  color: white;
+}
+
+
+
+canvas {
+  max-width: 100%;
+}
